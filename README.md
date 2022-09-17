@@ -1,1 +1,1 @@
-# MediaAritimetica
+# MediaAritmetica
